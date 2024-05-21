@@ -4,7 +4,7 @@ Welcome to TechShowcase, your platform for showcasing a variety of projects buil
 
 ## Repositories
 
-| [![BuiltWithAngular](./builtwithangular.jpg)](https://builtwithangular.dev) | [![BuiltWithAnalog](./builtwithanalog.jpg)](https://builtwithanalog.dev) |
+| [![BuiltWithAngular](builtwithangular.jpg)](https://builtwithangular.dev) | [![BuiltWithAnalog](builtwithanalog.jpg)](https://builtwithanalog.dev) |
 |:--:|:--:|
 | This repository is dedicated to showcasing projects built with Angular. Whether it's open source, free to use, or a paid project, [builtwithangular.dev](https://builtwithangular.dev) provides a platform for developers to showcase their work. | This repository is dedicated to showcasing projects built with AnalogJS. Whether it's open source, free to use, or a paid project, [builtwithanalog.dev](https://builtwithanalog.dev) provides a platform for developers to showcase their work. |
 
