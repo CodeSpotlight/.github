@@ -1,29 +1,45 @@
-# Built with Analog
+# TechShowcase
 
-Welcome to BuiltWithAnalog, your platform for showcasing a variety of projects built with [AnalogJS](https://analogjs.org/).
+![TechShowcase](/profile/tech-showcase-purple.png)
 
+TechShowcase is an open source project that highlights various websites and repositories focused on technology and innovation. Below are the details of the active repositories and their respective websites.
 
-[![BuiltWithAnalog](./profile/logo.jpg)](https://builtwithanalog.dev) 
+## Websites and Repositories
 
+### 1. [Women In Tech](https://womenintech.dev)
 
-## Purpose
+- [**https://womenintech.dev**](https://womenintech.dev)
+- **Purpose**: Empowering Women in Technology
+- **Description**: This initiative aims to promote and support the involvement of women in the technology sector. It features stories, resources, and opportunities for women to thrive in tech.
 
-**BuiltWithAnalog** aims to provide a space for developers to showcase their projects to the community. While our main focus is on open source and free-to-use projects, we also support developers who wish to list and sell their projects.
+### 2. [Built With Analog](https://builtwithanalog.dev)
+- [**https://builtwithanalog.dev**](https://builtwithanalog.dev)
+- **Purpose**: Projects Collection
+- **Description**: A collection of projects built using the Analog framework. This repository showcases various applications and tools developed with Analog, highlighting its versatility and power.
 
-### Open Source & Free Projects
+### 3. [TechShowcase](https://techshowcase.dev)
+- **Purpose**: Central Repository Link
+- **Description**: TechShowcase.dev serves as a central hub providing quick links to the websites and repositories featured under the TechShowcase umbrella.
 
-We encourage developers to submit their open source and free-to-use projects to BuiltWithAnalog. These projects are essential for fostering collaboration and innovation within the developer community.
+### 4. [Built With Angular](https://builtwithangular.dev)
+- used to be open source but due to certain events it is just a website that I keep for personal reference.
 
-### Paid Projects
+## Adding to Women In Tech
 
-In addition to free projects, BuiltWithAnalog also allows developers to list and sell their paid projects. This provides an opportunity for developers to earn income from their work while still benefiting from the exposure our platform offers.
+To feature an individual in Women In Tech:
 
-## How to Showcase your Project
+### Submitting via Pull Request (PR)
 
-### Option 1. Submit a project with a PR
-- follow the steps provided in the [**CONTRIBUTING.md**](https://github.com/BuiltWithAnalog/builtwithanalog/blob/main/CONTRIBUTING.md)
+- Follow the contributing guidelines in the [**CONTRIBUTING.md**](https://github.com/TechShowcase/womenintech/blob/main/CONTRIBUTING.md) of the Women In Tech repository.
 
-### Option 2. Submit a project in Discussions
+## Built With Analog - Submitting a Project
 
-- head over to [Discussions](https://github.com/orgs/TechShowcase/discussions/) and follow the instructions outlined in [Submitting a project](https://github.com/orgs/BuiltWithAnalog/discussions/1).
+To submit a project featuring Analog:
 
+### Submitting via Pull Request (PR)
+
+- Follow the contributing guidelines in the [**CONTRIBUTING.md**](https://github.com/TechShowcase/builtwithanalog/blob/main/CONTRIBUTING.md) of the Built With Analog repository.
+
+---
+
+Thank you for visiting TechShowcase! We hope you find these projects inspiring and useful.
