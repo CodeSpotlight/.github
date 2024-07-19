@@ -26,7 +26,7 @@ TechShowcase is an open source project that highlights various websites and repo
 
 ## Adding to Women In Tech
 
-To feature an individual in Women In Tech:
+Adding a profile to Women In Tech:
 
 ### Submitting via Pull Request (PR)
 
