@@ -6,18 +6,19 @@ TechShowcase is an open source project that highlights various websites and repo
 
 ## Websites and Repositories
 
-### 1. [Women In Tech](https://womenintech.dev)
+### 1. [Women In Tech](https://github.com/TechShowcase/womenintech)
 
 - [**https://womenintech.dev**](https://womenintech.dev)
 - **Purpose**: Empowering Women in Technology
 - **Description**: This initiative aims to promote and support the involvement of women in the technology sector. It features stories, resources, and opportunities for women to thrive in tech.
 
 ### 2. [Built With Analog](https://builtwithanalog.dev)
-- [**https://builtwithanalog.dev**](https://builtwithanalog.dev)
+- [**https://builtwithanalog.dev**](https://github.com/TechShowcase/builtwithanalog)
 - **Purpose**: Projects Collection
 - **Description**: A collection of projects built using the Analog framework. This repository showcases various applications and tools developed with Analog, highlighting its versatility and power.
 
-### 3. [TechShowcase](https://techshowcase.dev)
+### 3. [TechShowcase](https://github.com/TechShowcase/techshwocase)
+- [**https://techshowcase.dev**](https://techshowcase.dev)
 - **Purpose**: Central Repository Link
 - **Description**: TechShowcase.dev serves as a central hub providing quick links to the websites and repositories featured under the TechShowcase umbrella.
 
