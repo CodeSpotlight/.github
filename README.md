@@ -8,8 +8,8 @@ TechShowcase is an open source project that highlights various websites and repo
 
 ### 1. [TechShowcase](https://github.com/TechShowcase/techshwocase)
 - [**https://techshowcase.dev**](https://techshowcase.dev)
-- **Purpose**: 
-- **Description**: TechShowcase.dev 
+- **Purpose**: To highlight and celebrate hands-on programmers and coders.
+- **Description**: TechShowcase.dev is a platform showcasing active developers, open source contributors, and educators. It focuses on those who consistently engage in coding and share their knowledge, providing a resource for learning about key innovators in tech.
 
 ### 2. [Women In Tech](https://github.com/TechShowcase/womenintech)
 
