@@ -17,13 +17,11 @@ TechShowcase is an open source project that highlights various websites and repo
 - **Purpose**: To highlight and celebrate hands-on programmers and coders.
 - **Description**: TechShowcase.dev is a platform showcasing active developers, open source contributors, mentors, educators and more. It focuses on those who consistently engage in coding and share their knowledge, providing a resource for learning about key innovators in tech.
 
-### 3. [Built With Analog](https://builtwithanalog.dev)
-- [**https://builtwithanalog.dev**](https://github.com/TechShowcase/builtwithanalog)
-- **Purpose**: Projects Collection
-- **Description**: A collection of projects built using the Analog framework. This repository showcases various applications and tools developed with Analog, highlighting its versatility and power.
+#### 3. [Built With Analog](https://builtwithanalog.dev)
+- originated from this github organization, but it's no longer an open-source and its no longer maintained.
 
-### 4. [Built With Angular](https://builtwithangular.dev)
-- used to be open source but due to certain events it is just a website that I keep for personal reference.
+#### 4. [Built With Angular](https://builtwithangular.dev)
+- originated from this github organization, but it's no longer an open-source.
 
 ## Adding to TechShowcase
 
