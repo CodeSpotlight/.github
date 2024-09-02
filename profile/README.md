@@ -17,8 +17,10 @@ TechShowcase is an open source project that highlights various websites and repo
 - **Purpose**: To highlight and celebrate hands-on programmers and coders.
 - **Description**: TechShowcase.dev is a platform showcasing active developers, open source contributors, mentors, educators and more. It focuses on those who consistently engage in coding and share their knowledge, providing a resource for learning about key innovators in tech.
 
-#### 3. [Built With Analog](https://builtwithanalog.dev)
-- originated from this github organization, but it's no longer an open-source and its no longer maintained.
+### 3. [Built With Analog](https://builtwithanalog.dev)
+- [**https://builtwithanalog.dev**](https://github.com/TechShowcase/builtwithanalog)
+- **Purpose**: Projects Collection
+- **Description**: A collection of projects built using the Analog framework. This repository showcases various applications and tools developed with Analog, highlighting its versatility and power.
 
 #### 4. [Built With Angular](https://builtwithangular.dev)
 - originated from this github organization, but it's no longer an open-source.
@@ -38,6 +40,11 @@ Adding a profile to Women In Tech:
 ### Submitting via Pull Request (PR)
 
 - Follow the contributing guidelines in the [**CONTRIBUTING.md**](https://github.com/TechShowcase/womenintech/blob/main/CONTRIBUTING.md) of the Women In Tech repository.
+
+## Built With Analog - Submitting a Project
+To submit a project featuring Analog:
+### Submitting via Pull Request (PR)
+- Follow the contributing guidelines in the [**CONTRIBUTING.md**](https://github.com/TechShowcase/builtwithanalog/blob/main/CONTRIBUTING.md) of the Built With Analog repository.
 
 ---
 
