@@ -39,14 +39,6 @@ Adding a profile to Women In Tech:
 
 - Follow the contributing guidelines in the [**CONTRIBUTING.md**](https://github.com/TechShowcase/womenintech/blob/main/CONTRIBUTING.md) of the Women In Tech repository.
 
-## Built With Analog - Submitting a Project
-
-To submit a project featuring Analog:
-
-### Submitting via Pull Request (PR)
-
-- Follow the contributing guidelines in the [**CONTRIBUTING.md**](https://github.com/TechShowcase/builtwithanalog/blob/main/CONTRIBUTING.md) of the Built With Analog repository.
-
 ---
 
 Thank you for visiting TechShowcase! We hope you find these projects inspiring and useful.
