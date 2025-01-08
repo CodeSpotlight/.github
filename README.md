@@ -1,6 +1,6 @@
 # TechShowcase
 
-![TechShowcase](/profile/techshowcase-logo.jpg)
+![TechShowcase](/profile/techshowcase-logo.png)
 
 **TechShowcase** is an open source project that highlights various websites and repositories focused on technology and innovation. Below are the details of the active repositories and their respective websites.
 
