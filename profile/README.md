@@ -1,18 +1,18 @@
-# CodeSpotlight
+# TechShowcase
 
-![CodeSpotlight](logo-narrow.png)
+![TechShowcase](techshowcase-logo.jpg)
 
-**CodeSpotlight** is an open source project that highlights various websites and repositories focused on technology and innovation. Below are the details of the active repositories and their respective websites.
+**TechShowcase** is an open source project that highlights various websites and repositories focused on technology and innovation. Below are the details of the active repositories and their respective websites.
 
 ## Websites and Repositories
 
-### 1. [TechShowcase](https://github.com/CodeSpotlight/techshwocase)
+### 1. [TechShowcase](https://github.com/TechShowcaseDev/techshwocase)
 - [**https://techshowcase.dev**](https://techshowcase.dev)
 - **Purpose**: To highlight and celebrate hands-on programmers and coders.
 - **Description**: TechShowcase.dev is a platform showcasing active developers, open source contributors, and educators. It focuses on those who consistently engage in coding and share their knowledge, providing a resource for learning about key innovators in tech.
 
 ### 2. [Built With Analog](https://builtwithanalog.dev)
-- [**https://builtwithanalog.dev**](https://github.com/TechShowcase/builtwithanalog)
+- [**https://builtwithanalog.dev**](https://github.com/TechShowcaseDev/builtwithanalog)
 - **Purpose**: Projects Collection
 - **Description**: A collection of projects built using the Analog framework. This repository showcases various applications and tools developed with Analog, highlighting its versatility and power.
 - Now a public archive.
@@ -26,7 +26,7 @@ Adding a profile to TechShowcase:
 
 ### Submitting via Pull Request (PR)
 
-- Follow the contributing guidelines in the [**CONTRIBUTING.md**](https://github.com/TechShowcase/techshowcase/blob/main/CONTRIBUTING.md) of the Tech Showcase repository.
+- Follow the contributing guidelines in the [**CONTRIBUTING.md**](https://github.com/TechShowcaseDev/techshowcase/blob/main/CONTRIBUTING.md) of the Tech Showcase repository.
 
 ---
 
