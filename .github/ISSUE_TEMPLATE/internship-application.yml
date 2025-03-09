@@ -1,7 +1,7 @@
 name: "Internship Application"
 description: "Submit your application for the Code Spotlight Internship program."
 title: "Internship Application: [Your GitHub Username]"
-labels: ["internship", "application"]
+labels: ["Internship Application"]
 
 body:
   - type: markdown
