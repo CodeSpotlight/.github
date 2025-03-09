@@ -1,5 +1,5 @@
-# Code Spotlight 
-## Open Source Internship Program
+# CodeSpotlight 
+## The Open Source Internship
 
 ![CodeSpotlight](/profile/codespotlight-logo-narrow.png)
 

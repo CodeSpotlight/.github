@@ -1,0 +1,55 @@
+name: "Internship Application"
+description: "Submit your application for the Code Spotlight Internship program."
+title: "Internship Application: [Your GitHub Username]"
+labels: ["internship", "application"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        👋 **Welcome to the Code Spotlight Internship Application Process!**  
+        Thank you for your interest in joining the **Code Spotlight Internship program**.  
+        Please fill out the following details to complete your application. 🚀  
+
+  - type: input
+    attributes:
+      label: "Your Background"
+      description: "Tell us about your programming journey and experience with relevant technologies."
+      placeholder: "e.g., I have been working with Angular for 2 years..."
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: "Preferred Area & Track"
+      description: "Frontend or Backend? Specify which technologies you’d like to work with."
+      placeholder: "e.g., Frontend with Angular, or Backend with Node.js"
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Why Open Source?"
+      description: "Explain why you’re interested in contributing to open source projects through this internship."
+      placeholder: "e.g., I am excited about contributing to Angular because..."
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: "Estimated Duration"
+      description: "How long do you think you’ll need to complete the internship program (between 2 and 6 months)?"
+      options:
+        - "2 months"
+        - "3 months"
+        - "4 months"
+        - "5 months"
+        - "6 months"
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: "Additional Links"
+      description: "Provide links to GitHub repos, projects, or your portfolio."
+      placeholder: "e.g., https://github.com/my-portfolio"
