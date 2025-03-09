@@ -1,5 +1,5 @@
 name: "Internship Application"
-description: "Submit your application for the Code Spotlight Internship program."
+description: "Submit your application for the CodeSpotlight Open Source Internship program."
 title: "Internship Application: [Your GitHub Username]"
 labels: ["Internship Application"]
 
@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        👋 **Welcome to the Code Spotlight Internship Application Process!**  
+        👋 **Welcome to the CodeSpotlight Internship Application Process!**  
         Thank you for your interest in joining the **Code Spotlight Internship program**.  
         Please fill out the following details to complete your application. 🚀  
 
