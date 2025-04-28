@@ -1,104 +1,94 @@
-# CodeSpotlight 
-## The Open Source Internship
+# CodeSpotlight
 
-![CodeSpotlight](codespotlight-logo-narrow.png)
+Website Repository
 
-Welcome to the **Code Spotlight Open Source Internship Program!** This initiative is designed to merge the real-world experience of open-source contributions with an **internship framework**, providing participants with structured learning, hands-on collaboration, and an official credential for their efforts.  
+[![CodeSpotlight Logo](codespotlight-logo-narrow.png)](https://codespotlight.dev)
 
----
+This is the **official open-source repository** for [codespotlight.dev](https://codespotlight.dev) – the central platform of the CodeSpotlight ecosystem.
 
-### **What Makes This Program Unique?**
-- **Open-Source Roots**: The program revolves around contributing to real-life open-source projects, which inherently emphasize collaboration, transparency, version control, and coding discipline.  
-- **Internship Framework**: Unlike traditional open-source contributions, this program formalizes your experience with:
-  - Clear learning goals.
-  - Defined tracks based on skillsets and technologies.
-  - An official acknowledgment (internship certificate) upon successful completion.
-- **Welcomes Diverse Contributions**: Contributions are welcome from anyone - whether you're officially part of the internship or contributing externally to the project. Open-source thrives on community involvement, and we embrace that.
+## About CodeSpotlight.dev
+The website serves as a **showcase and gateway** to the different parts of CodeSpotlight, including:
+- **[codespotlight.dev](https://codespotlight.dev)** – Main showcase site.
+- **[angular.codespotlight.dev](https://angular.codespotlight.dev)** – A curated showcase of verified Angular projects.
+- **[react.codespotlight.dev](https://react.codespotlight.dev)** – A curated showcase of verified React projects.
+- **[open-source.codespotlight.dev](https://react.codespotlight.dev)** – The Open Source Internship Program.
+- **...and more to come!**
 
----
 
-### **Available Tracks**
-We currently offer the following tracks under the program. Each track emphasizes core technologies while embedding fundamental open-source principles like version control via **Git**, collaborative coding on **GitHub**, and team communication.
+## Tech Stack
+- **Angular** – Frontend framework
+- **Angular Material UI** – Modern and responsive UI components
+- **Netlify** – Hosting and deployment
 
-#### 1. **Frontend - Angular**
-   - Learn to create dynamic and interactive web applications using Angular.
-   - Work with TypeScript, HTML, and SCSS.
-   - Contribute to real-world Angular-based open-source projects.
+## Contributing
+We welcome **issues, feature requests, and PRs** to improve CodeSpotlight.dev! Check out our **[Contributing Guide](CONTRIBUTING.md)** for details on how to get started.
 
-#### 2. **Frontend - Next.js**
-   - Work with React-based Next.js to build server-rendered web applications.
-   - Learn about concepts like API routes, static generation, and SSR (Server-Side Rendering).
-   - Build scalable, fast projects for open-source ecosystems.
-
-#### 3. **Backend - Node.js**
-   - Dive into backend development with Node.js and Express.js.
-   - Contribute to building REST or GraphQL APIs.
-   - Learn to handle server-side logic, database integrations, and authentication processes.
+## License
+This project is **open-source** under the [MIT License](LICENSE).
 
 ---
 
-### ⏳ **Flexible Duration**
-The program is designed to suit a variety of schedules:
-- **Duration**: Flexible, ranging from **2 to 6 months**.
-  - If you have more time available, you may complete the program faster (e.g., within 2 months).
-  - If you have a busy schedule, you can work at a slower pace, spreading your participation over 6 months.
-- **Why Flexible?** We accommodate participants’ personal commitments (e.g., jobs, studies) while ensuring that everyone has the chance to learn and contribute meaningfully.
+### Connect with Us
+🌐 Website: [CodeSpotlight.dev](https://codespotlight.dev) 
 
----
+💬 Discord: [Join the community](https://discord.gg/wZyNsP9n6S)
+__________________________________________________________
 
-### ** This Is Unpaid Internship**
-The Code Spotlight Open Source Internship is **not a paid internship**, and here’s why:
-1. **Merge With Open Source**: Open-source development, by its nature, is typically unpaid and thrives on the voluntary contributions of developers globally.
-2. **Focus on Learning and Collaboration**: The primary goal is to give participants hands-on experience in real-world collaboration, teamwork, and development - a priceless opportunity to enhance your portfolio and skills.
 
----
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.0.
 
-### **Program Goals**
-1. Provide participants with **real-life collaborative development experience through open source** involvement.
-2. Empower developers to work on **real-world projects** where their code creates impact.
-3. Make **open-source contributions** more accessible, structured, and recognized.
-4. Create a **career-building internship experience** that’s both challenging and flexible.
+## Development server
 
----
+To start a local development server, run:
 
-### **Who Can Join?**
-This program is open to all!  
-- **As an Intern**: Apply, select your track (frontend or backend), and officially join the internship program. You'll receive structured mentorship and certification at the end.  
-- **As a Contributor**: Anyone can still contribute to projects without formally being part of the internship—you’ll be part of our community and valuable to the project’s success.
+```bash
+ng serve
+```
 
----
+Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-### **How to Get Started**
-1. Explore your interests:
-   - Would you like to focus on **Frontend Development** (Angular/Next.js) or **Backend Development** (Node.js)?
-2. Prepare your environment:
-   - Familiarize yourself with Git and GitHub (if you’re not already comfortable).
-   - Study the basics of your chosen technology stack.
-3. Join the Program:
-   - [Application Link/Instructions to Join]
-4. Start contributing:
-   - Work on tasks, collaborate with your peers via GitHub, and grow your skills!
+## Code scaffolding
 
----
+Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
 
-### **Contributions**
-Contributions are the backbone of this program and the open-source ecosystem. Whether you're joining as an intern or contributing outside the formal program, your involvement is deeply valued.
+```bash
+ng generate component component-name
+```
 
-You can:
-- Report bugs.
-- Fix issues in existing repositories.
-- Build new features.
-- Contribute to documentation or community initiatives.  
+For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
 
-Every contribution matters and brings value to the community. **Let’s build impactful projects together!**
+```bash
+ng generate --help
+```
 
----
+## Building
 
-### **Contact and Queries**
-Have questions or want to learn more about the program? Reach out to us via:
-- [Email/Contact Link]
-- [Discord/Slack Community Link]
+To build the project run:
 
----
+```bash
+ng build
+```
 
-We’re excited to have you here. Together, let’s shine a light on your coding journey and make open source a pivotal part of your growth story! 🚀
+This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+
+## Running unit tests
+
+To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+
+```bash
+ng test
+```
+
+## Running end-to-end tests
+
+For end-to-end (e2e) testing, run:
+
+```bash
+ng e2e
+```
+
+Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+
+## Additional Resources
+
+For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
