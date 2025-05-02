@@ -8,9 +8,10 @@ This is the **official open-source repository** for [codespotlight.dev](https://
 
 ## About CodeSpotlight.dev
 The website serves as a **showcase and gateway** to the different parts of CodeSpotlight, including:
-- **[codespotlight.dev](https://codespotlight.dev)** – Main showcase site.
-- **[angular.codespotlight.dev](https://angular.codespotlight.dev)** – A curated showcase of verified Angular projects.
+- **[codespotlight.dev](https://codespotlight.dev)** – Main showcase site. 
+- **[tools.codespotlight.dev](https://toods.codespotlight.dev)** – Collection of practical developer tools. 
 - **[react.codespotlight.dev](https://react.codespotlight.dev)** – A curated showcase of verified React projects.
+- **[angular.codespotlight.dev](https://angular.codespotlight.dev)** – A curated showcase of verified Angular projects.
 - **[open-source.codespotlight.dev](https://react.codespotlight.dev)** – The Open Source Internship Program.
 - **...and more to come!**
 
